@@ -1,0 +1,29 @@
+.toolbar {
+  display: flex;
+  gap: 7px;
+  margin: 30px auto 0;
+  width: 930px;
+}
+
+.toolbar-button {
+  cursor: pointer;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 0;
+  color: #555;
+  display: flex;
+  font-size: 18px;
+  justify-content: center;
+  line-height: 1.22;
+  border-color: #555;
+  padding: 5px 10px;
+}
+
+.toolbar-button_active {
+  background-color: #555;
+  color: #fff;
+}
+
+.toolbar-button:hover {
+  opacity: 0.8;
+}

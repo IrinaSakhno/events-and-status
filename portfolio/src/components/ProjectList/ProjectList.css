@@ -1,0 +1,11 @@
+.project-list {
+  column-count: 3;
+  width: 930px;
+  margin: 30px auto 0;
+}
+
+.project {
+  display: inline-block;
+  width: 300px;
+  margin-bottom: 15px;
+}
