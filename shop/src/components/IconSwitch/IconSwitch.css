@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.icon-switch {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px auto 10px;
+  width: 80%;
+}
+
+.switch-button {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.switch-button:hover {
+  opacity: 0.8;
+}
+
+.material-icons {
+  font-size: 40px;
+  color: #696969;
+}

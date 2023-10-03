@@ -1,0 +1,8 @@
+.cards-view {
+  margin: 50px auto;
+  width: 1150px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 50px;
+  row-gap: 30px;
+}
